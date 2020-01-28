@@ -1,0 +1,84 @@
+.figure-img img-fluid rounded {
+overflow: hidden;
+position: relative;
+max-width: 200px;
+margin: 0 auto;
+float: left;
+position: absolute;
+left: 15%;
+
+}
+
+body {
+	background-image: url("modern-art-painting.jpg");
+}
+
+img {
+	transform: rotate(90deg);
+	margin-top: 50px;
+}
+
+
+h1 {
+	text-align: center;
+}
+
+figcaption {
+  height: 1.2em;
+  width: 100%;
+  margin-left: 25px;
+  margin: auto;
+  margin-bottom: 20px;
+  margin-top: 4.4em;
+  float: right;
+  text-align: left;
+  z-index: 1;
+  display: inline-block;
+  bottom: 0;
+}
+
+.col-sm-4 {
+	left: 35px;
+}
+
+
+.text-right.text-nowrap {
+    display: block;
+    overflow: hidden;
+	float: right;
+	margin: 20px;
+	position: relative;
+	left: -10px;
+	top: 50px;
+	
+}
+
+
+.text-left {
+	position: relative;
+	margin: auto;
+	padding-right: 20px;
+	left: 100px;
+	top: 170px;
+
+}
+
+.question-1 {
+	position: relative;
+	top:100px;
+	left: 20px;
+
+
+}
+
+.row {
+	right: 50px;
+}
+
+h1 .display-4 {
+	padding-top: 100px; 
+
+	}
+div.jumbotron.jumbotron-fluid {
+	background-color: #F6F7F9;
+}
